@@ -1,0 +1,33 @@
+body{
+    background-position: center;
+    background-color: cornsilk;
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+}
+
+    
+    h5{
+    font-size: 70px;
+    text-align: center;
+    color: rgb(175, 235, 230);
+    margin-top: 45px;
+}
+.post-header{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 50px;
+    color:lightcoral
+}
+
+h2{
+    text-align: center;
+    color: lightskyblue;
+}
+
+.post{
+    text-align: center;
+    background-color: white;
+    height: auto;
+}
